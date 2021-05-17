@@ -1,6 +1,6 @@
 # Safe-Code
 
-## Created a Safe Usable Password Genoerator
+## Created a Safe Usable Password Generator
 ## Include options to add
 ## Upper case letters
 ## Lower case letters
